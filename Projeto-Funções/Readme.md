@@ -1,4 +1,4 @@
-# Projeto-Funções :happy:
+# Projeto-Funções
 
 Projetos desenvolvidos no curso de "Funções" dentro do Bootcamp ministrado pela DIO
 
