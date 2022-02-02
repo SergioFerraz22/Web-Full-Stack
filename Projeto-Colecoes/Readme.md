@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Coleções Chaveadas
 
 ### Atividade 1: Maps
@@ -29,4 +29,4 @@
 ##### Dado o array `[30, 30, 40, 5, 223, 2049, 3034, 5]`, retorne outro array apenas com valores únicos.
 
 ![sets](https://user-images.githubusercontent.com/93234341/152063795-68eabda3-8b44-4081-bab2-ed09eae2644d.png)
->>>>>>> 2fe8f807a0b1419588eaa9690d17921ddf664da9
+
