@@ -11,6 +11,6 @@ O objetivo é que a função receba um array e retorne ele caso o seu tamanho co
 ````
 
 
-
+![Debug e error](https://user-images.githubusercontent.com/93234341/152257123-51e1215d-6d1a-4240-b13f-2e8fa589fed2.png)
 
 
