@@ -10,7 +10,7 @@ try{
     // cria condição caso não seja do tipo number.
 
     if(array.length !== num) throw new RangeError("Tamanho invalido !");
-    // cria condição caso não atinga o tamanho 
+    // cria condição caso não atinga o tamanho.
 }
 catch(e){
     if(e instanceof ReferenceError){
