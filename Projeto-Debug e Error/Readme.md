@@ -3,7 +3,6 @@
 Projeto referente ao Debug e Error em JS. 
 
 
-
 ### Atividade realizada para validar tipos de erro.
 
 ````  javascript
